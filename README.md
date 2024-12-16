@@ -91,9 +91,5 @@ The dataset includes:
 
 ---
 
-## 📫 **Contact**
-
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email](mailto:youremail@example.com)
 
 
